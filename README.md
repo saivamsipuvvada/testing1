@@ -14,6 +14,8 @@ error: remote new-remote-name already exists.
 
 hp@DESKTOP-TLGFG1R MINGW64 ~/Desktop/myproject (main)
 $ git remote set-url origin https://github.com/saivamsipuvvada/testing1.git
+a
+
 
 hp@DESKTOP-TLGFG1R MINGW64 ~/Desktop/myproject (main)
 $
